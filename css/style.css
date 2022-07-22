@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to bottom, rgb(166, 36, 209),rgb(243, 237, 245),rgba(243, 237, 245, 0.2),rgb(166, 36, 209));
+    font-size: 
+}
+#title{
+    color: rgb(69,11,94);
+}
+
+.subtitle{
+    color: rgb(100,14,140);
+}
+.form-input{
+    color:;
+}
+
+#service-image {
+    height: 400px;
+    width: 70%;
+
+    background: radial-gradient(circle, rgb(243, 237, 245),rgba(243, 237, 245, 0), steelblue);
+}
